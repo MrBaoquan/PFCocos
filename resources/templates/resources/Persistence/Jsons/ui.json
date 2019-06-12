@@ -1,0 +1,25 @@
+{
+    "common":{
+        "DefaultUIMask":"UIMask"
+    },
+
+    "async":{
+
+    },
+
+    "persistence":{
+       
+    },
+
+    "scene_main":{
+      
+    },
+
+    "scene_hall":{
+       
+    },
+
+    "scene_game":{
+      
+    }
+}

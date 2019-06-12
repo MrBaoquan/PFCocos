@@ -1,0 +1,30 @@
+{
+    "persistence":{
+        "pathes":[
+            {
+                "type":"JsonAsset",
+                "path":"Persistence/Jsons"
+            },
+            {
+                "type":"Prefab",
+                "path":"Persistence/Prefabs"
+            }
+
+        ]
+    },
+
+    "scene_main":{
+        "pathes":[
+        ]
+    },
+
+    "scene_hall":{
+        "pathes":[
+        ]
+    },
+
+    "scene_game":{
+        "pathes":[
+        ]
+    }
+}
